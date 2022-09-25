@@ -44,7 +44,7 @@ I am student at faculty of CS and AI at Helwan University. I am intersted in pro
     <a href="" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/shehab-khalaf"alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="[https://www.facebook.com/profile.php?id=100012970092361](https://www.facebook.com/profile.php?id=100009838080491)" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="github" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="[github](https://github.com/Shehabkhalaf)" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
