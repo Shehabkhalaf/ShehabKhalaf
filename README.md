@@ -39,6 +39,24 @@ I am a student at the Faculty of Computers and Artificial Intelligence, Helwan U
 
 ---
 
+## ⚡️ Object-Oriented Programming (OOP):
+
+I have a good understanding of Object-Oriented Programming principles and have applied them in various projects. I am comfortable designing and implementing classes, inheritance, encapsulation, and polymorphism.
+
+---
+
+## ⚡️ Data Structures and Algorithms:
+
+I have a solid foundation in Data Structures and Algorithms. I have studied various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. Additionally, I am familiar with fundamental algorithms like sorting, searching, and graph traversal.
+
+---
+
+## ⚡️ Backend Project:
+
+I have worked on a backend project where I leveraged my knowledge of PHP and MySQL. The project involved designing and implementing a database schema, creating API endpoints, handling user authentication, and integrating with front-end technologies.
+
+---
+
 <p align="center">
   <a href="" alt="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
