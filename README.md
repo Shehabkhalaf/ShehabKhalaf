@@ -1,56 +1,60 @@
-# ⚡ Hi there I'm Shehab Khalaf ⚡
+# ⚡ Hi there, I'm Shehab Khalaf ⚡
 
 <div align="center">
-<img src="[https://i.imgur.com/8MupZHY.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="400px"/>
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px">
 </div>
 
-<br>
+## ⚡ About Me:
 
-## ⚡ About Me :
+I am a student at the Faculty of Computers and Artificial Intelligence, Helwan University. I am interested in programming languages and currently learning C++. I have completed courses in front-end development, including HTML and CSS. I am also working on projects using these technologies and solving problems using C++.
 
-I am student at faculty of CS and AI at Helwan University. I am intersted in programming languages and I learing some of it now I am learing Cpp. I finished courses about front end development. I finished HTML and Css. Now I am doing projects on it. I am also solving problems by cpp.
+## ⚡ A Few Quick Facts:
 
-<br>
+- 🧐 Interested in Programming.
+- 🎓 Student at the Faculty of Computers and Artificial Intelligence, Helwan University, Egypt.
+- 🌱 Currently working on projects using HTML and CSS and solving problems.
+- ⛵ My target is to become a software engineer.
 
-## ⚡ A Few Quick Facts :
+---
 
+## ⚡ Programming Languages:
 
-<ul>
+[![C++](https://skillicons.dev/icons/cpp)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons/c)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons/java)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons/php)](https://skillicons.dev)
 
-  <br>
-  
-<li> 🧐   Interested in Programming.</li>
-<li> 🎓   Student at the Faculty of Computers and Artificial Intelligence, Helwan University, Egypt</li>
-<li> 🌱   Currently doing projects bu HTML and css, and solving problems.</li>
-<li> ⛵   My Target Is to become a software engineer.</li>
-</ul>
+---
 
-<br>
+## ⚡️ Front-End Technologies:
 
-<hr>
+[![HTML](https://skillicons.dev/icons/html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons/css)](https://skillicons.dev)
 
-## ⚡ programming language :
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+## ⚡️ Backend Technologies:
 
-<hr>
+[![PHP](https://skillicons.dev/icons/php)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons/mysql)](https://skillicons.dev)
 
-## ⚡️ Front-End Technologies :
-
-[![My Skills](https://skillicons.dev/icons?i=css,html,&perline=10)](https://skillicons.dev)
-
+---
 
 <p align="center">
-    <a href="" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/shehab-khalaf"alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="[https://www.facebook.com/profile.php?id=100012970092361](https://www.facebook.com/profile.php?id=100009838080491)" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="[github](https://github.com/Shehabkhalaf)" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+  <a href="" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/shehab-khalaf" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100012970092361" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://github.com/Shehabkhalaf" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
-
-
