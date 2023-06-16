@@ -28,8 +28,7 @@ I am a student at the Faculty of Computers and Artificial Intelligence, Helwan U
 
 ## ⚡️ Front-End Technologies:
 
-[![HTML](https://skillicons.dev/icons?i=html5)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,&perline=10)](https://skillicons.dev)
 
 ---
 
