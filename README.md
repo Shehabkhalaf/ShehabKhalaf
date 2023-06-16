@@ -10,33 +10,33 @@ I am a student at the Faculty of Computers and Artificial Intelligence, Helwan U
 
 ## ⚡ A Few Quick Facts:
 
-- 🧐 Interested in Programming.
-- 🎓 Student at the Faculty of Computers and Artificial Intelligence, Helwan University, Egypt.
-- 🌱 Currently working on projects using HTML and CSS and solving problems.
-- ⛵ My target is to become a software engineer.
+- 🧐 Passionate about programming and problem-solving.
+- 🎓 Pursuing a degree in Computer Science and Artificial Intelligence at Helwan University, Egypt.
+- 🌱 Currently honing my skills in HTML, CSS, and C++.
+- ⛵ Aspiring to become a software engineer.
 
 ---
 
 ## ⚡ Programming Languages:
 
-[![C++](https://skillicons.dev/icons/cpp)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons/c)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons/java)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons/php)](https://skillicons.dev)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://skillicons.dev)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://skillicons.dev)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://skillicons.dev)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://skillicons.dev)
 
 ---
 
 ## ⚡️ Front-End Technologies:
 
-[![HTML](https://skillicons.dev/icons/html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons/css)](https://skillicons.dev)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://skillicons.dev)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://skillicons.dev)
 
 ---
 
 ## ⚡️ Backend Technologies:
 
-[![PHP](https://skillicons.dev/icons/php)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons/mysql)](https://skillicons.dev)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://skillicons.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://skillicons.dev)
 
 ---
 
@@ -48,13 +48,4 @@ I am a student at the Faculty of Computers and Artificial Intelligence, Helwan U
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012970092361" alt="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://github.com/Shehabkhalaf" alt="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the
