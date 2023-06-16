@@ -19,24 +19,24 @@ I am a student at the Faculty of Computers and Artificial Intelligence, Helwan U
 
 ## ⚡ Programming Languages:
 
-[![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)](https://skillicons.dev)
-[![C](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://skillicons.dev)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)](https://skillicons.dev)
-[![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
 ---
 
 ## ⚡️ Front-End Technologies:
 
-[![HTML](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5)](https://skillicons.dev)
-[![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html5)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css3)](https://skillicons.dev)
 
 ---
 
 ## ⚡️ Backend Technologies:
 
-[![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)](https://skillicons.dev)
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ---
 
