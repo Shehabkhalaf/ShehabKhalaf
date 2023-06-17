@@ -6,7 +6,7 @@
 
 ## ⚡ About Me:
 
-I am a student at the Faculty of Computers and Artificial Intelligence, Helwan University. I am interested in programming languages and currently learning C++. I have completed courses in front-end development, including HTML and CSS. I am also working on projects using these technologies and solving problems using C++.
+I am a student at the Faculty of Computers and Artificial Intelligence, Helwan University. I am interested in programming languages and currently learning PHP. I have completed courses in Front-End development and Back-End development, including HTML and CSS and PHP. I am also working on projects using these technologies and solving problems using PHP.
 
 ## ⚡ A Few Quick Facts:
 
